@@ -4,7 +4,7 @@ Voici une procédure structurée que vous pouvez copier-coller dans un document 
 
 # Procédure de Migration Majeure PostgreSQL (Version $X$ vers $Y$)
 
-**Serveur :** `svpwapt.site-mairie.noumea.nc`  
+**Serveur :** `wapt`  
 **Objectif :** Migrer le moteur de base de données sans perte de données lorsque le paquet logiciel a été mis à jour avant les données.
 
 ---
